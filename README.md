@@ -9,7 +9,7 @@
 Read Twitch chat messages and usernames in Unity.
 
 ## Usage
-Download the latest release from [Releases](https://github.com/ZeppelinGames/Glyph-Recognition/releases) or clone/download the full project above.
+Download the latest release from [Releases](https://github.com/ZeppelinGames/Unity-Twitch-Chat/releases) or clone/download the full project above.
 Change the channelName variable on line 15 of ChatManager.cs to read chat messages from a different channel.
 
 ## Check out my other shit
